@@ -1,0 +1,26 @@
+{
+  "name": "asiamaciaszek.com",
+  "version": "1.0.0",
+  "description": "This project is bootstrapped with [Create Elm App](https://github.com/halfzebra/create-elm-app).",
+  "main": "src/index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "create-elm-app": "^4.2.26"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/memee/asiamaciaszek.com.git"
+  },
+  "author": "Maciej Maciaszek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/memee/asiamaciaszek.com/issues"
+  },
+  "homepage": "https://github.com/memee/asiamaciaszek.com#readme"
+}
